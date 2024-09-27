@@ -440,7 +440,7 @@ async def main():
                                                                 
                                                                                   
          Auto Claim Bot For Blum - Orrnob's Drop Automation
-     Author  : MRP mosibur : Thanks to @Mosibur
+     Author  : MRP mosibur : Thanks to @mosibur_paik
      Github  : https://github.com/mosibur1
     Telegram: https://t.me/mrptechofficial
         {Style.RESET_ALL}"""                                                                                                  
