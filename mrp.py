@@ -2,7 +2,6 @@ import os
 import re
 import sys
 import json
-import anyio
 import httpx
 import random
 import asyncio
