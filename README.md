@@ -1,1 +1,1 @@
-A simple python based script for [blum](t.me/blum) game play
+A simple python based script for [blum](https;//t.me/blum) game play
