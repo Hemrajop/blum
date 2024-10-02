@@ -1,3 +1,7 @@
 A simple python based script for blum game play
 
-  <p align="center"><a href="https://t.me/itsHemRaj"> <img src="https://img.shields.io/badge/Credit%20To%20Owner-darkred?style=for-the-badge" width="220" height="38.45"/></a></p>
+
+
+<p align="center">
+  <img src="https://telegra.ph/file/369dc32ca6154f04c0223-5ff03897abec47e2a6.jpg">
+</p>
